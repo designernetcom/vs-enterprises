@@ -428,11 +428,11 @@ span,
 }
 
 .logo img {
-  height: 65px;
+  height: 80px;
 }
 
 #header-wrap.fixed-header .logo img {
-  height:65px;
+  height:80px;
 }
 
 .top-bar .top-social-list li a {
@@ -441,7 +441,7 @@ span,
 
 /*--navigation--*/
 .navbar {
-  padding: 0;
+  padding: 10px 0px;
 }
 
 .navbar-nav {
@@ -877,7 +877,7 @@ footer .widget .recent-post-desc span {
 .page-title {
   display: block;
   padding-bottom: 70px;
-  padding-top: 170px;
+  padding-top: 200px;
 }
 
 .page-title h1 {
